@@ -2,6 +2,13 @@
 
 > Theme is based on [vincentmac's](https://github.com/vincentmac) [enlightened](https://github.com/vincentmac/enlightened) theme.
 
+## Available for:
+
+- [X] [Atom](https://github.com/ginfuru/Atom-BlackRain)
+- [X] [iTerm 2](https://ginfuru/iTerm-BlackRain)
+- [ ] Mou/MacDown
+- [ ] Vim/MacVim
+
 #### ScreenShots
 
 
