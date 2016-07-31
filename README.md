@@ -4,10 +4,7 @@
 
 ## Available for:
 
-- [X] [Atom](https://github.com/ginfuru/Atom-BlackRain)
-- [X] [iTerm 2](https://ginfuru/iTerm-BlackRain)
-- [ ] Mou/MacDown
-- [ ] Vim/MacVim
+[Atom](https://github.com/ginfuru/Atom-BlackRain) and [iTerm 2](https://ginfuru/iTerm-BlackRain)
 
 #### ScreenShots
 
@@ -31,24 +28,17 @@
 My Theme is [Materialize](https://github.com/saadq/Materialize)
 
 ```json
-	"theme": "Material Vim Blackboard.sublime-theme",
-	"material_theme_accent_indigo": true,
-	"material_theme_accent_lime": false,
-	"material_theme_accent_orange": false,
-	"material_theme_accent_purple": false,
-	"material_theme_accent_red": false,
-	"material_theme_accent_yellow": false,
-	"material_theme_bold_tab": true,
-	"material_theme_contrast_mode": true,
-	"material_theme_disable_fileicons": false,
-	"material_theme_disable_folder_animation": false,
-	"material_theme_disable_tree_indicator": false,
-	"material_theme_small_statusbar": true,
-	"material_theme_small_tab": true,
 	"caret_extra_width": 2,
 	"caret_style": "blink",
-	"font_face": "Hack",
+	"font_face": "Hasklig",
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
+	"theme": "Material Vim Blackboard.sublime-theme",
+	"material_theme_accent_indigo": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_disable_tree_indicator": false,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
 ```
 
