@@ -562,8 +562,7 @@
 			<key>name</key>
 			<string>Attribute</string>
 			<key>scope</key>
-			<string>entity.other.attribute-name
-        , entity.other.attribute-name.html,
+			<string>, entity.other.attribute-name.html,
         , entity.other.attribute-name.event.html,
         , entity.other.attribute-name.id.html,
         , entity.other.attribute-name.tag.jade,
