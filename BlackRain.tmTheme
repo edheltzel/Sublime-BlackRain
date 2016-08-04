@@ -562,18 +562,13 @@
 			<key>name</key>
 			<string>Attribute</string>
 			<key>scope</key>
-			<string>, entity.other.attribute-name.html,
-        , entity.other.attribute-name.event.html,
-        , entity.other.attribute-name.id.html,
-        , entity.other.attribute-name.tag.jade,
-        , constant.other.symbol.ruby,
-        , entity.other.attribute-name.jsx,</string>
+			<string>entity.other.attribute-name, entity.other.attribute-name.html, entity.other.attribute-name.event.html, entity.other.attribute-name.id.html, entity.other.attribute-name.tag.jade, constant.other.symbol.ruby, entity.other.attribute-name.jsx, entity.other.attribute-name.php, entity.other.attriubte-name.event.php, entity.other.attirubute-name.id.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#7349BEFF</string>
 				<key>fontStyle</key>
-				<string> italic</string>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
