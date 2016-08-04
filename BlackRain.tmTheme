@@ -483,7 +483,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>HTML/XML tag attribute value</string>
+			<string>HTML&#x2f;XML tag attribute value</string>
 			<key>scope</key>
 			<string>meta.tag string.quoted.double.html</string>
 			<key>settings</key>
@@ -562,11 +562,18 @@
 			<key>name</key>
 			<string>Attribute</string>
 			<key>scope</key>
-			<string>entity.other.attribute-name</string>
+			<string>, entity.other.attribute-name.html,
+        , entity.other.attribute-name.event.html,
+        , entity.other.attribute-name.id.html,
+        , entity.other.attribute-name.tag.jade,
+        , constant.other.symbol.ruby,
+        , entity.other.attribute-name.jsx,</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#7349BEFF</string>
+				<key>fontStyle</key>
+				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2001,5 +2008,13 @@
 	</array>
 	<key>uuid</key>
 	<string>82efb645-84c2-469d-af31-2acdd583269e</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
+	<key>semanticClass</key>
+	<string>theme.dark.black_rain</string>
+	<key>author</key>
+	<string>Ed Heltzel</string>
+	<key>comment</key>
+	<string>based on vincentmac&#x2f;enlightened theme.</string>
 </dict>
 </plist>
