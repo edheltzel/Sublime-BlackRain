@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>name</key>
@@ -1869,142 +1869,140 @@
 				<string>#FEDF76FF</string>
 			</dict>
 		</dict>
-		<!-- GitGutter and SublimeLinter Support - Updated: 07-31-2016 == Start -->
 		<dict>
-		    <key>name</key>
-		    <string>GitGutter deleted</string>
-		    <key>scope</key>
-		    <string>markup.deleted.git_gutter</string>
-		    <key>settings</key>
-		    <dict>
-		        <key>foreground</key>
-		        <string>#d7503c</string>
-		    </dict>
+			<key>name</key>
+			<string>GitGutter deleted</string>
+			<key>scope</key>
+			<string>markup.deleted.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#d7503c</string>
+			</dict>
 		</dict>
 		<dict>
-		    <key>name</key>
-		    <string>GitGutter inserted</string>
-		    <key>scope</key>
-		    <string>markup.inserted.git_gutter</string>
-		    <key>settings</key>
-		    <dict>
-		        <key>foreground</key>
-		        <string>#43ae88</string>
-		    </dict>
+			<key>name</key>
+			<string>GitGutter inserted</string>
+			<key>scope</key>
+			<string>markup.inserted.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#43ae88</string>
+			</dict>
 		</dict>
 		<dict>
-		    <key>name</key>
-		    <string>GitGutter changed</string>
-		    <key>scope</key>
-		    <string>markup.changed.git_gutter</string>
-		    <key>settings</key>
-		    <dict>
-		        <key>foreground</key>
-		        <string>#3cadd7</string>
-		    </dict>
+			<key>name</key>
+			<string>GitGutter changed</string>
+			<key>scope</key>
+			<string>markup.changed.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#3cadd7</string>
+			</dict>
 		</dict>
 		<dict>
-		    <key>name</key>
-		    <string>GitGutter ignored</string>
-		    <key>scope</key>
-		    <string>markup.ignored.git_gutter</string>
-		    <key>settings</key>
-		    <dict>
-		        <key>foreground</key>
-		        <string>#3e4751</string>
-		    </dict>
+			<key>name</key>
+			<string>GitGutter ignored</string>
+			<key>scope</key>
+			<string>markup.ignored.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#3e4751</string>
+			</dict>
 		</dict>
 		<dict>
-		    <key>name</key>
-		    <string>GitGutter untracked</string>
-		    <key>scope</key>
-		    <string>markup.untracked.git_gutter</string>
-		    <key>settings</key>
-		    <dict>
-		        <key>foreground</key>
-		        <string>#3e4751</string>
-		    </dict>
+			<key>name</key>
+			<string>GitGutter untracked</string>
+			<key>scope</key>
+			<string>markup.untracked.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#3e4751</string>
+			</dict>
 		</dict>
 		<dict>
-		    <key>name</key>
-		    <string>SublimeLinter Annotations</string>
-		    <key>scope</key>
-		    <string>sublimelinter.outline.notes</string>
-		    <key>settings</key>
-		    <dict>
-		        <key>background</key>
-		        <string>#233345</string>
-		    </dict>
+			<key>name</key>
+			<string>SublimeLinter Annotations</string>
+			<key>scope</key>
+			<string>sublimelinter.outline.notes</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#233345</string>
+			</dict>
 		</dict>
 		<dict>
-		    <key>name</key>
-		    <string>SublimeLinter Outline</string>
-		    <key>scope</key>
-		    <string>sublimelinter.outline.illegal</string>
-		    <key>settings</key>
-		    <dict>
-		        <key>background</key>
-		        <string>#d7503c</string>
-		    </dict>
+			<key>name</key>
+			<string>SublimeLinter Outline</string>
+			<key>scope</key>
+			<string>sublimelinter.outline.illegal</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#d7503c</string>
+			</dict>
 		</dict>
 		<dict>
-		    <key>name</key>
-		    <string>SublimeLinter Underline</string>
-		    <key>scope</key>
-		    <string>sublimelinter.underline.illegal</string>
-		    <key>settings</key>
-		    <dict>
-		        <key>background</key>
-		        <string>#d7503c</string>
-		    </dict>
+			<key>name</key>
+			<string>SublimeLinter Underline</string>
+			<key>scope</key>
+			<string>sublimelinter.underline.illegal</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#d7503c</string>
+			</dict>
 		</dict>
 		<dict>
-		    <key>name</key>
-		    <string>SublimeLinter Warning Outline</string>
-		    <key>scope</key>
-		    <string>sublimelinter.outline.warning</string>
-		    <key>settings</key>
-		    <dict>
-		        <key>background</key>
-		        <string>#9f3a2c</string>
-		        <key>foreground</key>
-		        <string>#ffffff</string>
-		    </dict>
+			<key>name</key>
+			<string>SublimeLinter Warning Outline</string>
+			<key>scope</key>
+			<string>sublimelinter.outline.warning</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#9f3a2c</string>
+				<key>foreground</key>
+				<string>#ffffff</string>
+			</dict>
 		</dict>
 		<dict>
-		    <key>name</key>
-		    <string>SublimeLinter Warning Underline</string>
-		    <key>scope</key>
-		    <string>sublimelinter.underline.warning</string>
-		    <key>settings</key>
-		    <dict>
-		        <key>background</key>
-		        <string>#d7503c</string>
-		    </dict>
+			<key>name</key>
+			<string>SublimeLinter Warning Underline</string>
+			<key>scope</key>
+			<string>sublimelinter.underline.warning</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#d7503c</string>
+			</dict>
 		</dict>
 		<dict>
-		    <key>name</key>
-		    <string>SublimeLinter Violation Outline</string>
-		    <key>scope</key>
-		    <string>sublimelinter.outline.violation</string>
-		    <key>settings</key>
-		    <dict>
-		        <key>background</key>
-		        <string>#9f3a2c</string>
-		    </dict>
+			<key>name</key>
+			<string>SublimeLinter Violation Outline</string>
+			<key>scope</key>
+			<string>sublimelinter.outline.violation</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#9f3a2c</string>
+			</dict>
 		</dict>
 		<dict>
-		    <key>name</key>
-		    <string>SublimeLinter Violation Underline</string>
-		    <key>scope</key>
-		    <string>sublimelinter.underline.violation</string>
-		    <key>settings</key>
-		    <dict>
-		        <key>background</key>
-		        <string>#d7503c</string>
-		    </dict>
+			<key>name</key>
+			<string>SublimeLinter Violation Underline</string>
+			<key>scope</key>
+			<string>sublimelinter.underline.violation</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#d7503c</string>
+			</dict>
 		</dict>
-		<!-- End  ==  GitGutter and SublimeLinter Support ===================== -->
 	</array>
 	<key>uuid</key>
 	<string>82efb645-84c2-469d-af31-2acdd583269e</string>
