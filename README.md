@@ -35,20 +35,26 @@
 
 #### Other stuff
 
-My Theme is [Materialize](https://github.com/saadq/Materialize)
+BlackRain supports [Operator Mono](http://www.typography.com/fonts/operator/styles/) which is used in the screenshots above. I also highly suggest [Haskilg](https://github.com/i-tu/Hasklig) because of the Ligatures or just [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) by Adobe.
+
+My Theme is now [Seti](https://github.com/ctf0/Seti_ST3)
 
 ```json
-	"caret_extra_width": 2,
-	"caret_style": "blink",
-	"font_face": "Hasklig",
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
-	"theme": "Material Vim Blackboard.sublime-theme",
-	"material_theme_accent_indigo": true,
-	"material_theme_compact_sidebar": true,
-	"material_theme_contrast_mode": true,
-	"material_theme_disable_tree_indicator": false,
-	"material_theme_small_tab": true,
-	"material_theme_tabs_autowidth": true,
+	"Seti_ClosedFolder_remove": true,
+	"Seti_ClosedFolder_same": true,
+	"Seti_accent_indigo_map": true,
+	"Seti_bold_slctdfile_labels": true,
+	"Seti_no_scroll_icons": true,
+	"Seti_orange_button": true,
+	"Seti_orange_label": true,
+	"Seti_sb_small_padding": true,
+	"Seti_sb_tree_miny": true,
+	"Seti_show_group_arrows": true,
+	"Seti_sidebar_font_Source": true,
+	"font_face": "Operator Mono",
+	"font_options":
+	[
+		"gray_antialias"
+	],
 ```
 
