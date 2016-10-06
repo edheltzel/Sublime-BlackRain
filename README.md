@@ -35,7 +35,7 @@
 
 #### Other stuff
 
-BlackRain supports [Operator Mono](http://www.typography.com/fonts/operator/styles/) which is used in the screenshots above. I also highly suggest [Haskilg](https://github.com/i-tu/Hasklig) because of the Ligatures or just [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) by Adobe.
+BlackRain supports [Operator Mono](http://www.typography.com/fonts/operator/styles/) which is used in the screenshots above. I also highly suggest [Haskilg](https://github.com/i-tu/Hasklig) because of the Ligatures _(hoepful for ST3 support)_ or just [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) by Adobe.
 
 My Theme is now [Seti](https://github.com/ctf0/Seti_ST3)
 
