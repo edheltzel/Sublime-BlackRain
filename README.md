@@ -8,16 +8,22 @@
 
 #### ScreenShots
 
-**SCSS**
-![scss](http://rdm.d.pr/MZPI+)
 **JAVASCRIPT**
-![javascript](http://rdm.d.pr/1iCVu+)
-**JSON**
-![json](http://rdm.d.pr/OeD3+)
+![javascript](http://rdm.d.pr/1fgNQ+)
+**JSON _(7 layers deep)_**
+![json](http://rdm.d.pr/16fU3+)
+**SCSS**
+![scss](http://rdm.d.pr/1h2zU+)
 **HTML**
-![HTML](http://rdm.d.pr/wkA1+)
+![HTML](http://rdm.d.pr/3ram+)
 **PHP**
-![PHP](http://rdm.d.pr/1frqZ+)
+![PHP](http://rdm.d.pr/1bijN+)
+**Liquid**
+![Liquid](http://rdm.d.pr/1tvM+)
+**Markdown**
+![Markdown](http://rdm.d.pr/utJL+)
+**Python**
+![Python](http://rdm.d.pr/1jxZ7+)
 
 #### Installation
 
