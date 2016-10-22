@@ -135,10 +135,12 @@
                 <string>bracket.curly</string>
                 <key>settings</key>
                 <dict>
+                		<key>fontStyle</key>
+                		<string>bold</string>
                     <key>background</key>
-                    <string>#FF44AA</string>
-                    <key>foreground</key>
                     <string>#3399FF</string>
+                    <key>foreground</key>
+                    <string>#FF44AA</string>
                 </dict>
             </dict>
             <dict>
@@ -1961,7 +1963,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#d7503c</string>
+                    <string>#CD3F45</string>
                 </dict>
             </dict>
             <dict>
@@ -1972,7 +1974,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#43ae88</string>
+                    <string>#48FFC2</string>
                 </dict>
             </dict>
             <dict>
@@ -1983,7 +1985,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#3cadd7</string>
+                    <string>#FFD200</string>
                 </dict>
             </dict>
             <dict>
@@ -1994,7 +1996,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#3e4751</string>
+                    <string>#7F29C4</string>
                 </dict>
             </dict>
             <dict>
@@ -2005,86 +2007,133 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#3e4751</string>
+                    <string>#7292A1</string>
                 </dict>
             </dict>
             <dict>
                 <key>name</key>
                 <string>SublimeLinter Annotations</string>
                 <key>scope</key>
-                <string>sublimelinter.outline.notes</string>
+                <string>sublimelinter.annotations</string>
                 <key>settings</key>
                 <dict>
-                    <key>background</key>
-                    <string>#233345</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>name</key>
-                <string>SublimeLinter Outline</string>
-                <key>scope</key>
-                <string>sublimelinter.outline.illegal</string>
-                <key>settings</key>
-                <dict>
-                    <key>background</key>
-                    <string>#d7503c</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>name</key>
-                <string>SublimeLinter Underline</string>
-                <key>scope</key>
-                <string>sublimelinter.underline.illegal</string>
-                <key>settings</key>
-                <dict>
-                    <key>background</key>
-                    <string>#d7503c</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>name</key>
-                <string>SublimeLinter Warning Outline</string>
-                <key>scope</key>
-                <string>sublimelinter.outline.warning</string>
-                <key>settings</key>
-                <dict>
-                    <key>background</key>
-                    <string>#9f3a2c</string>
                     <key>foreground</key>
-                    <string>#ffffff</string>
+                    <string>#fff</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>scope</key>
+                <string>sublimelinter.gutter-mark</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#603F80</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>scope</key>
+                <string>sublimelinter.outline.illegal, sublimelinter.underline.illegal, sublimelinter.outline.violation</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#CD3F45</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>scope</key>
+                <string>sublimelinter.outline.warning, sublimelinter.underline.warning</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#EDBA00</string>
                 </dict>
             </dict>
             <dict>
                 <key>name</key>
-                <string>SublimeLinter Warning Underline</string>
+                <string>SublimeLinter Warning</string>
                 <key>scope</key>
-                <string>sublimelinter.underline.warning</string>
+                <string>sublimelinter.mark.warning</string>
                 <key>settings</key>
                 <dict>
-                    <key>background</key>
-                    <string>#d7503c</string>
+                    <key>foreground</key>
+                    <string>#EDBA00</string>
                 </dict>
             </dict>
             <dict>
                 <key>name</key>
-                <string>SublimeLinter Violation Outline</string>
+                <string>SublimeLinter Error</string>
                 <key>scope</key>
-                <string>sublimelinter.outline.violation</string>
+                <string>sublimelinter.mark.error</string>
                 <key>settings</key>
                 <dict>
-                    <key>background</key>
-                    <string>#9f3a2c</string>
+                    <key>foreground</key>
+                    <string>#CD3F45</string>
                 </dict>
             </dict>
             <dict>
                 <key>name</key>
-                <string>SublimeLinter Violation Underline</string>
+                <string>BH - Default</string>
                 <key>scope</key>
-                <string>sublimelinter.underline.violation</string>
+                <string>brackethighlighter.default</string>
                 <key>settings</key>
                 <dict>
+                    <key>foreground</key>
+                    <string>#D8F6FF</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Bracket Tag</string>
+                <key>scope</key>
+                <string>brackethighlighter.tag</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#7e99a6</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>scope</key>
+                <string>brackethighlighter.curly, brackethighlighter.round, brackethighlighter.square, brackethighlighter.angle</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#fed02e</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Bracket Quote</string>
+                <key>scope</key>
+                <string>brackethighlighter.quote</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#009FFF</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Bracket Unmatched</string>
+                <key>scope</key>
+                <string>brackethighlighter.unmatched</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#fff</string>
                     <key>background</key>
-                    <string>#d7503c</string>
+                    <string>#000</string>
+                </dict>
+            </ddict>
+            <dict>
+                <key>name</key>
+                <string>Bracket c_define</string>
+                <key>scope</key>
+                <string>brackethighlighter.c_define</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#603F80</string>
                 </dict>
             </dict>
         </array>
