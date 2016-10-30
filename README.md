@@ -6,6 +6,10 @@
 
 [Atom](https://github.com/ginfuru/Atom-BlackRain) and [iTerm 2](https://ginfuru/iTerm-BlackRain)
 
+#### Why BlackRain
+Because Michael Douglas has flow 
+![BlackRain Poster](http://www.gstatic.com/tv/thumb/movieposters/11865/p11865_p_v8_aa.jpg)
+
 #### ScreenShots
 
 **JAVASCRIPT**
@@ -23,9 +27,6 @@
 **Python**
 ![Python](http://rdm.d.pr/1jxZ7+)
 
-#### Why BlackRain
-Because Michael Douglas has flow 
-![BlackRain Poster](http://www.gstatic.com/tv/thumb/movieposters/11865/p11865_p_v8_aa.jpg)
 
 #### Installation
 
