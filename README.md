@@ -4,7 +4,7 @@
 
 ## Available for:
 
-[Atom](https://github.com/ginfuru/Atom-BlackRain) and [iTerm 2](https://ginfuru/iTerm-BlackRain)
+[Atom](https://github.com/ginfuru/Atom-BlackRain) and [iTerm 2](https://github.com/ginfuru/iTerm-BlackRain)
 
 #### Why BlackRain
 Because Michael Douglas has flow 
